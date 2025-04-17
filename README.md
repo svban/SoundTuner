@@ -9,9 +9,7 @@ Extension to manipulate background sounds. Can lower/increase volume, add pan an
 ![Light](screenshot.png)
 ![Dark](screenshot-dark.png)
 
-## Installation
 
-Currently, the extension is only available on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/soundtuner/).
 
 ## Prerequisites
 
