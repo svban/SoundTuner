@@ -1,6 +1,8 @@
+**Increased the gain to 32.0**
 # SoundTuner
 
 Extension to manipulate background sounds. Can lower/increase volume, add pan and mono. Can also save background sounds per website for future visits.
+
 
 ## Screenshots
 
@@ -20,7 +22,7 @@ Currently, the extension is only available on [Firefox](https://addons.mozilla.o
 
 **Clone the Repository**
 
-    git clone https://github.com/LoneCoder21/SoundTuner.git
+    git clone https://github.com/svban/SoundTuner.git
 
 **Install [web-ext](https://github.com/mozilla/web-ext)**
 
